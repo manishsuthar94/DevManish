@@ -1,6 +1,4 @@
-// Copyright (C) 2025 Alvalen Bilyunazra
-// This file is part of Alvalens-porto-2-nextJs.
-// Licensed under the GNU GPL v3.0. See LICENSE for details.
+
 
 "use client";
 import ReactFullpage from "@fullpage/react-fullpage";
@@ -371,9 +369,22 @@ const MyPage = () => {
                     >
                       <FontAwesomeIcon icon={faEnvelope} className="text-3xl" />
                     </motion.a>
-
                     <motion.a
-                      href="https://github.com/Alvalens"
+                      href="https://www.linkedin.com/in/manish-suthar-8395b4311/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
+                      initial={{ opacity: 0, y: 40 }}
+                      whileInView={{ opacity: 1, y: 0 }}
+                      transition={{
+                        y: { delay: 0.4 },
+                        opacity: { delay: 0.5 },
+                      }}
+                    >
+                      <FontAwesomeIcon icon={faLinkedin} className="text-3xl" />
+                    </motion.a>
+                    <motion.a
+                      href="https://github.com/manishsuthar94/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
@@ -387,7 +398,7 @@ const MyPage = () => {
                       <FontAwesomeIcon icon={faGithub} className="text-3xl" />
                     </motion.a>
                     <motion.a
-                      href="https://www.instagram.com/alvalens_/"
+                      href="https://www.instagram.com/_manish_.94/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
@@ -402,20 +413,6 @@ const MyPage = () => {
                         icon={faInstagram}
                         className="text-3xl"
                       />
-                    </motion.a>
-                    <motion.a
-                      href="https://www.linkedin.com/in/alvalen-shafel-8a081a254/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
-                      initial={{ opacity: 0, y: 40 }}
-                      whileInView={{ opacity: 1, y: 0 }}
-                      transition={{
-                        y: { delay: 0.4 },
-                        opacity: { delay: 0.5 },
-                      }}
-                    >
-                      <FontAwesomeIcon icon={faLinkedin} className="text-3xl" />
                     </motion.a>
                   </div>
                 </div>
