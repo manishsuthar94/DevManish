@@ -1,0 +1,72 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "E-Commerce Website",
+      "desc": [
+        "A personal portfolio website that I created for a client. The website is built using two main tech, native (HTML, CSSS, JS) and react based (ReactJs, TailwindCSS, Typescript). The website also created based on the client design, and improved and sliced by me. The website has a few features such as a about page, a project page, resume page, and a contact page.",
+        "The website is created using a modern design and a clean interface that appeals to a wide audience. The website also has a responsive design that makes it easy to use on any device. The website also has a few animations that make the website more interactive and engaging."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/adaa-jaipur/adaa-jaipur.png",
+      "images": [
+        "/image/projects/adaa-jaipur/adaa-jaipur.png",
+        "/image/projects/adaa-jaipur/adaa-jaipur.png",
+        "/image/projects/adaa-jaipur/adaa-jaipur.png"
+      ],
+      "tech": ["HTML", "CSS", "JS", "ReactJS", "TailwindCSS", "Typescript"],
+      "slug": "apii-porto"
+    },
+    {
+      "show": true,
+      "title": "Myntra Clone",
+      "desc": [
+        "LMS website that integrated Generative AI feauture to track studnet various keys like mood, behavior, and cognitive ability when learning. The website is built using Laravel as a fullstack framework. In this website teacher can track student mood and other metrics data based on the material students accessed.",
+        "The website also has a few features such as a dashboard for the teacher to see the student's data, a material page, and a quiz page. The website also has a few charts to visualize the student's data. The website provided the student captured data that can be downloaded by the teacher.",
+        "The website also has a features to export the lecture data such as the mood, behaviour, and cognitive score to a xlxs file that can be downloaded by the teacher."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/myntra/myntra.png",
+      "images": [
+        "/image/projects/myntra/myntra.png",
+        "/image/projects/myntra/myntra.png",
+        "/image/projects/myntra/myntra.png"
+      ],
+      "tech": ["PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "DataTables"],
+      "slug": "mind-mirror"
+    },
+
+    {
+      "show": true,
+      "title": "Furniture Shop",
+      "desc": [
+        "My first freelance project. This project is a website for a School based on a JALAKAR curriculum. The website is built mainly using Laravel and Bootstrap.",
+        "This website is LMS like system, have a user management, user auth, quiz and material for student and FAQ",
+        "In this project I learned how to work with a team and how to manage a project. I also learned new library such as livewire and alpine.js."
+      ],
+      "year": "2023",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/furniture/furniture.png",
+      "images": [
+        "/image/projects/furniture/furniture.png",
+        "/image/projects/furniture/furniture.png",
+        "/image/projects/furniture/furniture.png"
+      ],
+      "tech": [
+        "PHP",
+        "Laravel",
+        "Bootstrap",
+        "Livewire",
+        "MySQL",
+        "jQuery",
+        "DataTables"
+      ],
+      "slug": "nu-ino-website"
+    }
+  ]
+}
