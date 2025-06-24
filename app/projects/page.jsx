@@ -40,7 +40,7 @@ export default function Page() {
             >
               <Image
                 src={ProjectAll}
-                alt="Alvalens"
+                alt="Manish"
                 layout="fill"
                 objectFit="cover"
                 placeholder="blur"
@@ -96,7 +96,7 @@ export default function Page() {
                 >
                   <Image
                     src={ReactChat1}
-                    alt="Alvalens"
+                    alt="Manish"
                     layout="fill"
                     objectFit="cover"
                     placeholder="blur"
@@ -121,7 +121,7 @@ export default function Page() {
                 >
                   <Image
                     src={ReactChat3}
-                    alt="Alvalens"
+                    alt="Manish"
                     layout="fill"
                     objectFit="cover"
                     placeholder="blur"
@@ -148,7 +148,7 @@ export default function Page() {
                 >
                   <Image
                     src={ReactChat2}
-                    alt="Alvalens"
+                    alt="Manish"
                     layout="fill"
                     objectFit="cover"
                     placeholder="blur"

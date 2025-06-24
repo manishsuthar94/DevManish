@@ -35,7 +35,7 @@ export default function About() {
               >
                 <Image
                   src={Me1}
-                  alt="Alvalens"
+                  alt="Manish"
                   layout="fill"
                   objectFit="cover"
                   placeholder="blur"
@@ -59,7 +59,7 @@ export default function About() {
               >
                 <Image
                   src={Me2}
-                  alt="Alvalens"
+                  alt="Manish"
                   layout="fill"
                   objectFit="cover"
                   placeholder="blur"
@@ -85,7 +85,7 @@ export default function About() {
               >
                 <Image
                   src={Me3}
-                  alt="Alvalens"
+                  alt="Manish"
                   layout="fill"
                   objectFit="cover"
                   placeholder="blur"

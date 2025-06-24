@@ -22,7 +22,7 @@ export default function ProjectCard({ project, index }) {
       >
         <Image
           src={project.thumbnail}
-          alt="Alvalens"
+          alt="Manish"
           layout="fill"
           objectFit="cover"
           placeholder="blur"

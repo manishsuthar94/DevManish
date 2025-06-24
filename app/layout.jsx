@@ -8,43 +8,14 @@ import { Analytics } from "@vercel/analytics/react";
 import ClientTopProgressBar from "@/components/ClientTopProgressBar";
 
 export const metadata = {
-  title: "Alvalens | Portofolio",
+  title: "Manish | Portofolio",
 
   description:
-    "My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+    "My name is Manish, I'm a web developer and I'm passionate about it. I'm currently studying at Marwadi University Rajkot.",
 
-  author: "Alvalen Shafelbilyunazra",
-  siteUrl: "https://www.alvalens.my.id",
-  applicationName: "Alvalens",
-
-  keywords: [
-    "alvalens",
-    "alvalen",
-    "alvalen shafel",
-    "shafel",
-    "alvalen shafelbilyunazra",
-    "alvalen shafel bilyunazra",
-    "bloodfallen",
-    "alvalen porto",
-    "alvalen um",
-  ],
-
-  openGraph: {
-    type: "website",
-    url: "https://www.alvalens.my.id",
-    title: "Alvalens | Portofolio",
-    site_name: "Alvalens | Portofolio",
-    description: "My name is Alvalens, This is my portofolio website.",
-    width: 1200,
-    height: 630,
-    images: [
-      {
-        url: "/og-image-rev.png",
-        alt: "Alvalens Portofolio",
-      },
-    ],
-    site_name: "Alvalens | Portofolio",
-  },
+  author: "Manish Suthar",
+  siteUrl: "https://manishthecoder.vercel.app/",
+  applicationName: "manishthecoder",
 };
 
 export default function RootLayout({ children }) {

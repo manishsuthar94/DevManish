@@ -40,7 +40,7 @@ export default function Page() {
             >
               <Image
                 src={Hero}
-                alt="Alvalen Shafel"
+                alt="Manish Suthar"
                 layout="fill"
                 objectFit="cover"
                 placeholder="blur"
