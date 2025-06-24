@@ -91,9 +91,9 @@ const MyPage = () => {
                       type: "spring",
                     }}
                   >
-                    Hi! I&rsquo;am Manish Suthar, a BCA student from Marwadi
-                    University, passionate about web development. I'm learning
-                    full stack technologies to build real-world digital
+                    Hi! I&apos;m Manish Suthar, a BCA student from Marwadi
+                    University, passionate about web development. I&apos;m
+                    learning full stack technologies to build real-world digital
                     solutions and grow as a skilled developer.
                   </motion.p>
                   <motion.div
