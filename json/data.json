@@ -8,8 +8,8 @@
         "This website was not built entirely by me alone. I utilized resources from YouTube, Google, and AI to enhance my learning and development process."
       ],
       "year": "2025",
-      "preview": "",
-      "code": "",
+      "preview": "https://adaa-jaipur.vercel.app/",
+      "code": "https://github.com/manishsuthar94/AdaaJaipur",
       "thumbnail": "/image/projects/adaa-jaipur/1.png",
       "images": [
         "/image/projects/adaa-jaipur/1.png",
@@ -39,8 +39,8 @@
         "Designed with modern UI elements to replicate the look and feel of the original Myntra site."
       ],
       "year": "2024",
-      "preview": "",
-      "code": "",
+      "preview": "https://manishsuthar94.github.io/myntra-clone/",
+      "code": "https://github.com/manishsuthar94/myntra-clone",
       "thumbnail": "/image/projects/myntra/myntra.png",
       "images": [
         "/image/projects/myntra/myntra.png",
@@ -59,8 +59,8 @@
         "A key feature of this project is the 'Add to Cart' functionality developed using React state management. Users can add products to the cart, view selected items in real-time, and experience seamless interactions — all powered by efficient component-based architecture and Tailwind’s utility-first styling."
       ],
       "year": "2024",
-      "preview": "",
-      "code": "",
+      "preview": "https://empire-designs.vercel.app/",
+      "code": "https://github.com/manishsuthar94/empire-designs-",
       "thumbnail": "/image/projects/furniture/furniture.png",
       "images": [
         "/image/projects/furniture/furniture.png",
