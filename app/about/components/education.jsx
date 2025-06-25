@@ -195,7 +195,7 @@ export default function Education() {
                   back-end development to build meaningful digital solutions.
                   <br />
                   <br />
-                  Beyond academics, I'm an active member of the{" "}
+                  Beyond academics, I&apos;m an active member of the{" "}
                   <span className="text-black font-medium">
                     Google Developer Groups (GDG) on Campus
                   </span>
@@ -204,7 +204,7 @@ export default function Education() {
                   initiatives.
                   <br />
                   <br />
-                  I've proudly secured a{" "}
+                  I&apos;ve proudly secured a{" "}
                   <span className="text-black font-medium">First Rank</span> in
                   the{" "}
                   <span className="text-black font-medium">
@@ -233,13 +233,13 @@ export default function Education() {
                   .
                   <br />
                   <br />
-                  I'm passionate about solving real-world problems through code,
-                  especially in the field of web development. Whether it's
-                  building user-friendly interfaces or writing efficient backend
-                  logic, I enjoy turning ideas into working solutions. Always
-                  learning, experimenting, and growing — I'm excited to explore
-                  new technologies and contribute to impactful digital
-                  experiences.
+                  I&apos;m passionate about solving real-world problems through
+                  code, especially in the field of web development. Whether
+                  it&apos;s building user-friendly interfaces or writing
+                  efficient backend logic, I enjoy turning ideas into working
+                  solutions. Always learning, experimenting, and growing —
+                  I&apos;m excited to explore new technologies and contribute to
+                  impactful digital experiences.
                 </p>
               </div>
               {/* <div className="flex flex-wrap gap-2 mt-4 text-sm">
