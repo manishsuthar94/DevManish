@@ -4,28 +4,39 @@
       "show": true,
       "title": "E-Commerce Website",
       "desc": [
-        "A personal portfolio website that I created for a client. The website is built using two main tech, native (HTML, CSSS, JS) and react based (ReactJs, TailwindCSS, Typescript). The website also created based on the client design, and improved and sliced by me. The website has a few features such as a about page, a project page, resume page, and a contact page.",
-        "The website is created using a modern design and a clean interface that appeals to a wide audience. The website also has a responsive design that makes it easy to use on any device. The website also has a few animations that make the website more interactive and engaging."
+        "Adaa-Jaipur is a comprehensive e-commerce platform designed to provide a seamless online shopping experience. It features an intuitive interface for customers and a robust admin panel for efficient product and order management.",
+        "This website was not built entirely by me alone. I utilized resources from YouTube, Google, and AI to enhance my learning and development process."
       ],
       "year": "2025",
       "preview": "",
       "code": "",
-      "thumbnail": "/image/projects/adaa-jaipur/adaa-jaipur.png",
+      "thumbnail": "/image/projects/adaa-jaipur/1.png",
       "images": [
-        "/image/projects/adaa-jaipur/adaa-jaipur.png",
-        "/image/projects/adaa-jaipur/adaa-jaipur.png",
-        "/image/projects/adaa-jaipur/adaa-jaipur.png"
+        "/image/projects/adaa-jaipur/1.png",
+        "/image/projects/adaa-jaipur/2.png",
+        "/image/projects/adaa-jaipur/3.png",
+        "/image/projects/adaa-jaipur/4.png",
+        "/image/projects/adaa-jaipur/5.png",
+        "/image/projects/adaa-jaipur/6.png",
+        "/image/projects/adaa-jaipur/7.png"
       ],
-      "tech": ["HTML", "CSS", "JS", "ReactJS", "TailwindCSS", "Typescript"],
-      "slug": "apii-porto"
+      "tech": [
+        "ReactJS",
+        "TailwindCSS",
+        "Vite",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Stripe"
+      ],
+      "slug": "adaa-jaipur-e-commerce-website"
     },
     {
       "show": true,
       "title": "Myntra Clone",
       "desc": [
-        "LMS website that integrated Generative AI feauture to track studnet various keys like mood, behavior, and cognitive ability when learning. The website is built using Laravel as a fullstack framework. In this website teacher can track student mood and other metrics data based on the material students accessed.",
-        "The website also has a few features such as a dashboard for the teacher to see the student's data, a material page, and a quiz page. The website also has a few charts to visualize the student's data. The website provided the student captured data that can be downloaded by the teacher.",
-        "The website also has a features to export the lecture data such as the mood, behaviour, and cognitive score to a xlxs file that can be downloaded by the teacher."
+        "A responsive Myntra-inspired e-commerce website built using HTML, CSS, and JavaScript. The project features a user-friendly product listing page and a working 'Add to Cart' functionality using JavaScript, allowing users to add items to the cart and view them dynamically.",
+        "Designed with modern UI elements to replicate the look and feel of the original Myntra site."
       ],
       "year": "2024",
       "preview": "",
@@ -33,40 +44,32 @@
       "thumbnail": "/image/projects/myntra/myntra.png",
       "images": [
         "/image/projects/myntra/myntra.png",
-        "/image/projects/myntra/myntra.png",
-        "/image/projects/myntra/myntra.png"
+        "/image/projects/myntra/1.png",
+        "/image/projects/myntra/2.png"
       ],
-      "tech": ["PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "DataTables"],
-      "slug": "mind-mirror"
+      "tech": ["Html", "Css", "Javascript"],
+      "slug": "myntra-clone"
     },
 
     {
       "show": true,
-      "title": "Furniture Shop",
+      "title": "Furniture - Website",
       "desc": [
-        "My first freelance project. This project is a website for a School based on a JALAKAR curriculum. The website is built mainly using Laravel and Bootstrap.",
-        "This website is LMS like system, have a user management, user auth, quiz and material for student and FAQ",
-        "In this project I learned how to work with a team and how to manage a project. I also learned new library such as livewire and alpine.js."
+        "This Furniture E-Commerce Website is built using ReactJS, Vite, and Tailwind CSS, offering a fast, modern, and responsive user interface. The site features beautifully designed furniture product listings with smooth navigation and a clean, minimal UI optimized for all devices.",
+        "A key feature of this project is the 'Add to Cart' functionality developed using React state management. Users can add products to the cart, view selected items in real-time, and experience seamless interactions — all powered by efficient component-based architecture and Tailwind’s utility-first styling."
       ],
-      "year": "2023",
+      "year": "2024",
       "preview": "",
       "code": "",
       "thumbnail": "/image/projects/furniture/furniture.png",
       "images": [
         "/image/projects/furniture/furniture.png",
-        "/image/projects/furniture/furniture.png",
-        "/image/projects/furniture/furniture.png"
+        "/image/projects/furniture/1.png",
+        "/image/projects/furniture/2.png",
+        "/image/projects/furniture/3.png"
       ],
-      "tech": [
-        "PHP",
-        "Laravel",
-        "Bootstrap",
-        "Livewire",
-        "MySQL",
-        "jQuery",
-        "DataTables"
-      ],
-      "slug": "nu-ino-website"
+      "tech": ["ReactJS", "TailwindCSS", "Vite"],
+      "slug": "furniture-website"
     }
   ]
 }

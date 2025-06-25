@@ -5,11 +5,10 @@ import { motion } from "framer-motion";
 import Button from "@/components/Button";
 import Image from "next/image";
 
-// images
-import ReactChat1 from "@/public/image/projects/furniture/furniture.png";
-import ReactChat2 from "@/public/image/projects/furniture/furniture.png";
-import ReactChat3 from "@/public/image/projects/furniture/furniture.png";
-import ProjectAll from "@/public/image/projects/furniture/furniture.png";
+import ReactChat1 from "@/public/image/projects/adaa-jaipur/1.png";
+import ReactChat2 from "@/public/image/projects/adaa-jaipur/2.png";
+import ReactChat3 from "@/public/image/projects/adaa-jaipur/3.png";
+import ProjectAll from "@/public/image/projects.png";
 
 import Hr from "@/components/Hr";
 import ProjectCard from "./components/ProjectCard";
@@ -53,10 +52,11 @@ export default function Page() {
             </h1>
             <Hr />
             <p className="title  text-xl mt-4 tracking-wider text-gray-900 leading-[1.7rem] mb-5">
-              List of my projects that I have done and{" "}
+              Explore my work—where creativity meets functionality <br />{" "}
+              through{" "}
               <span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
                 {" "}
-                currently working on.
+                code and design.
               </span>
             </p>
             <motion.div
@@ -173,24 +173,21 @@ export default function Page() {
             }}
           >
             <h2 className="text-2xl font-bold tracking-wider mb-3">
-              Generative Trivia
+              Adaa-Jaipur E-Commerce Website
             </h2>
             <p className="text-gray-600 text-justify title text-lg">
-              A generative trivia website built with Next.js, Firebase,
-              NextAuth, Google OAuth, and TypeScript. Users can generate trivia
-              questions for predefined school subjects and answer them with a
-              unique interactive input style. The application supports user
-              authentication with Google and stores data in Firestore. You can
-              see the source code of this project on my github account or
-              preview the project by clicking the button below.
+              Adaa-Jaipur is a comprehensive e-commerce platform designed to
+              provide a seamless online shopping experience. It features an
+              intuitive interface for customers and a robust admin panel for
+              efficient product and order management.
             </p>{" "}
             <div className="mt-3">
               <Button variation="primary">
-                <Link href="projects/trivia">More</Link>
+                <Link href="projects/adaa-jaipur-e-commerce-website">More</Link>
               </Button>
               <Button variation="secondary">
                 <a
-                  href="https://generative-trivia.vercel.app/"
+                  href="https://adaa-jaipur.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

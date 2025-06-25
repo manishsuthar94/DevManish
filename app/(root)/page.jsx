@@ -261,10 +261,10 @@ const MyPage = () => {
                       type: "spring",
                     }}
                   >
-                    This is some of my projects that I have done{" "}
+                    Explore my work—where creativity meets functionality <br />
                     <span className="bg-transparent md:bg-gray-100 bg-opacity-50 xl:bg-transparent">
                       {" "}
-                      and currently working on.
+                      through code and design.
                     </span>
                   </motion.p>
                   <motion.div
