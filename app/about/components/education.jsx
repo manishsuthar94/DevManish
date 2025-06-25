@@ -182,7 +182,7 @@ export default function Education() {
               <div className="flex items-center gap-2">
                 <p className="text-gray-600 text-justify title text-lg">
                   Aspiring to become a successful Full Stack Web Developer,
-                  I&rsquo;m currently pursuing my Bachelor's degree in{" "}
+                  I&rsquo;m currently pursuing my Bachelor&apos;s degree in{" "}
                   <span className="text-black font-medium">
                     Computer Applications (BCA)
                   </span>{" "}
