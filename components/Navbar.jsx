@@ -212,7 +212,7 @@ const Navbar = () => {
               isNavOpen ? "text-white" : ""
             }`}
           >
-            DevManish
+            Manish.dev
           </h1>
         </div>
         <div className="flex flex-row items-center">
