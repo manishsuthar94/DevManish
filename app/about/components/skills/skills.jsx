@@ -11,6 +11,7 @@ const selectedSkill = {
     "CSS",
     "JavaScript",
     "C",
+    "Java",
     "Python (Basic)",
     "React",
     "TailwindCSS (Basic)",
